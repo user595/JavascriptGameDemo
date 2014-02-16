@@ -51,8 +51,8 @@ table {
 /* Center the container */
 #container {
   padding-top:50px;
-  margin:0 auto;
-  width:480px;
+  margin:0 10px;
+  width:980px;
 }
 
 /* Give canvas a background */
